@@ -52,7 +52,7 @@ const MealsFavTabNavigator = createBottomTabNavigator(
                 tabBarIcon: (tabInfo) => {
                     return (
                         <Ionicons
-                            name="ios-start"
+                            name="ios-star"
                             size={25}
                             color={tabInfo.tintColor}
                         />
